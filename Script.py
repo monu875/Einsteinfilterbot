@@ -17,7 +17,7 @@ Welcome to Help Area 3 🎁</b>"""
     SPSHIVA3_TXT = """<b><i>This Is The Module Page Info</i>
 
 🔰 Your Taken Page Is 3/3 📖</b>"""
-    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/Einstein_v1Bot'>ᴇɪɴsᴛᴇɪɴ</a>
+    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/prithviraj_filter_bot'>PRITHVIRAJ 2.0</a>
 
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/'>ᴘʏᴛʜᴏɴ</a>
 
@@ -25,11 +25,11 @@ Welcome to Help Area 3 🎁</b>"""
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href='http://heroku.com/'>ʜᴇʀᴏᴋᴜ</a>
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/ERROR_X_PREDATOR'>ᴀʟɪɴsʜᴀɴ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/Leo_memlon'>ᴀʟɪɴsʜᴀɴ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+8bR-OoqDDtUxZDQ1'>ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+Z5dLUeIG319kZDc1'>ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
 
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/movies_hub_tg1'>ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs</a></b>"""
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Padmavati_full_movies'>ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs</a></b>"""
     
     FILE_TXT = """➤ Help: File Store Module..🛃
 
